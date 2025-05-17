@@ -1,0 +1,14 @@
+{
+  "name": "brr-brr-patapim-dino-game",
+  "version": "1.0.0",
+  "description": "Pixelated Dino game with custom obstacles and characters.",
+  "main": "src/game.js",
+  "scripts": {
+    "start": "npx serve public"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
