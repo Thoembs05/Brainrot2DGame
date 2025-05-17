@@ -1,11 +1,11 @@
-# Brr Brr Patapim Dino Game
+# Brainrot Dino Game
 
 A pixelated endless runner game inspired by the Chrome Dino game, featuring custom obstacles and characters.
+Made by Thoembs05
 
 ## Features
-- Play as Patapim
-- Dodge cactus elephants and birds with bombardiro crocodilo
-- Pixel art style
+- Play as brr brr Patapim
+- Dodge lirili larila and bombardiro crocodilo
 
 ## Getting Started
 
@@ -23,3 +23,6 @@ A pixelated endless runner game inspired by the Chrome Dino game, featuring cust
 
 **Controls:**
 - Press `Space` to jump or restart after game over.
+
+## Licence
+MIT
